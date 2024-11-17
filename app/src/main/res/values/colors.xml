@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="toolbarColor">#7E91E4</color>
+    <color name="ic_menu_exit_color">#EB0808</color>
+    <color name="list_item_color_background">#abcdef</color>
+    <color name="one_background">#051A7A</color>
+    <color name="two_background">#5DA7F1</color>
+</resources>
